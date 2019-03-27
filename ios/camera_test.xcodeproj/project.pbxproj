@@ -1257,7 +1257,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "camera-test.test";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.webill.camera-test.test";
 				PRODUCT_NAME = camera_test;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1276,7 +1276,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "camera-test.test";
+				PRODUCT_BUNDLE_IDENTIFIER = "net.webill.camera-test.test";
 				PRODUCT_NAME = camera_test;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

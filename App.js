@@ -20,7 +20,7 @@ export default class App extends Component {
   render() {
     if (this.state.example) {
       const Example = this.state.example;
-      return <Example />;
+      return <Example onCancel={()=> this.setState({example: undefined})}/>;
     }
     return (
       <View style={{ flex: 1, backgroundColor:'white' }}>
